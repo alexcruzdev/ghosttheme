@@ -1,0 +1,15 @@
+{
+  "name": "Landing The Cloud",
+  "description": "A theme for my blog",
+  "version": "0.0.1",
+  "engines": {
+    "ghost": ">=5.0.0"
+  },
+  "author": {
+    "name": "Alex Cruz",
+    "email": "alexcruzdev@gmail.com"
+  },
+  "config": {
+    "post_per_page": 3
+  }
+}
